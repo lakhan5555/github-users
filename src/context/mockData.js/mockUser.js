@@ -25,10 +25,10 @@ export default {
   "hireable": null,
   "bio": "A Full Stack Web Developer. Work with React and Django",
   "twitter_username": "lakhan5555",
-  "public_repos": 15,
+  "public_repos": 19,
   "public_gists": 0,
-  "followers": 1,
+  "followers": 4,
   "following": 1,
   "created_at": "2020-03-31T18:54:31Z",
-  "updated_at": "2021-02-27T14:56:49Z"
+  "updated_at": "2021-03-03T01:44:30Z"
 }
