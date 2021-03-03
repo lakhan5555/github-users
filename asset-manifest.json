@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github/static/css/main.b57dee0c.chunk.css",
-    "main.js": "/github/static/js/main.9d444394.chunk.js",
-    "main.js.map": "/github/static/js/main.9d444394.chunk.js.map",
-    "runtime-main.js": "/github/static/js/runtime-main.98fbb25a.js",
-    "runtime-main.js.map": "/github/static/js/runtime-main.98fbb25a.js.map",
-    "static/js/2.9033f22c.chunk.js": "/github/static/js/2.9033f22c.chunk.js",
-    "static/js/2.9033f22c.chunk.js.map": "/github/static/js/2.9033f22c.chunk.js.map",
-    "static/js/3.c7da08a3.chunk.js": "/github/static/js/3.c7da08a3.chunk.js",
-    "static/js/3.c7da08a3.chunk.js.map": "/github/static/js/3.c7da08a3.chunk.js.map",
-    "index.html": "/github/index.html",
-    "static/css/main.b57dee0c.chunk.css.map": "/github/static/css/main.b57dee0c.chunk.css.map",
-    "static/js/2.9033f22c.chunk.js.LICENSE.txt": "/github/static/js/2.9033f22c.chunk.js.LICENSE.txt",
-    "static/media/login-img.45d3b74f.svg": "/github/static/media/login-img.45d3b74f.svg",
-    "static/media/preloader.a6525050.gif": "/github/static/media/preloader.a6525050.gif"
+    "main.css": "/github-users/static/css/main.b57dee0c.chunk.css",
+    "main.js": "/github-users/static/js/main.9d444394.chunk.js",
+    "main.js.map": "/github-users/static/js/main.9d444394.chunk.js.map",
+    "runtime-main.js": "/github-users/static/js/runtime-main.c6b1c188.js",
+    "runtime-main.js.map": "/github-users/static/js/runtime-main.c6b1c188.js.map",
+    "static/js/2.d2a4f9b4.chunk.js": "/github-users/static/js/2.d2a4f9b4.chunk.js",
+    "static/js/2.d2a4f9b4.chunk.js.map": "/github-users/static/js/2.d2a4f9b4.chunk.js.map",
+    "static/js/3.c7da08a3.chunk.js": "/github-users/static/js/3.c7da08a3.chunk.js",
+    "static/js/3.c7da08a3.chunk.js.map": "/github-users/static/js/3.c7da08a3.chunk.js.map",
+    "index.html": "/github-users/index.html",
+    "static/css/main.b57dee0c.chunk.css.map": "/github-users/static/css/main.b57dee0c.chunk.css.map",
+    "static/js/2.d2a4f9b4.chunk.js.LICENSE.txt": "/github-users/static/js/2.d2a4f9b4.chunk.js.LICENSE.txt",
+    "static/media/login-img.45d3b74f.svg": "/github-users/static/media/login-img.45d3b74f.svg",
+    "static/media/preloader.a6525050.gif": "/github-users/static/media/preloader.a6525050.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.98fbb25a.js",
-    "static/js/2.9033f22c.chunk.js",
+    "static/js/runtime-main.c6b1c188.js",
+    "static/js/2.d2a4f9b4.chunk.js",
     "static/css/main.b57dee0c.chunk.css",
     "static/js/main.9d444394.chunk.js"
   ]
